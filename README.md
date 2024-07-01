@@ -6,6 +6,7 @@ AI/ML bootcamp originally created using the Rising STEM Scholars funding.
 
 - Day 1: Introduction to Python [[doc](https://github.com/matthewcarbone/Bootcamp/issues/1)]
 - Day 2: Introduction to NumPy, tabular data, and visualization [[doc](https://github.com/matthewcarbone/Bootcamp/issues/2)]
+- Day 3: Introduction to machine learning (conceptual) & introduction to supervised machine learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/3)]
 
 
 ## Funding Acknowledgement
