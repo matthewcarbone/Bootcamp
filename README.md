@@ -4,11 +4,15 @@ This is a 2-week AI/ML bootcamp originally created using the Rising STEM Scholar
 
 ## Bootcamp plan
 
-- Day 1: Introduction to Python [[doc](https://github.com/matthewcarbone/Bootcamp/issues/1)]
-- Day 2: Introduction to NumPy, tabular data, and visualization [[doc](https://github.com/matthewcarbone/Bootcamp/issues/2)]
-- Day 3: Introduction to machine learning (conceptual) & introduction to supervised machine learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/3)]
-- Day 4: Intermediate supervised machine learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/4)]
-- Day 5: Introduction to unsupervised learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/5)]
+- Module 01: Introduction to Python [[doc](https://github.com/matthewcarbone/Bootcamp/issues/1)]
+- Module 02: Introduction to NumPy, tabular data, and visualization [[doc](https://github.com/matthewcarbone/Bootcamp/issues/2)]
+- Module 03: Introduction to machine learning (conceptual) & introduction to supervised machine learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/3)]
+- Module 04: Intermediate supervised machine learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/4)]
+- Module 05: Introduction to unsupervised learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/5)]
+- Module 06: Neural networks from scratch
+- Module 07: Introduction to PyTorch and deep learning libraries
+- Module 08: Convolutional neural networks and practical GPU training
+- Module 09: The cutting edge and an introduction to transformers
 
 
 ## Funding Acknowledgement
