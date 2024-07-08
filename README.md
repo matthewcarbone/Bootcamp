@@ -1,21 +1,34 @@
-# Bootcamp
+<div align=center>
+
+# 👾 Bootcamp
+
+</div>
 
 This is a 2-week AI/ML bootcamp originally created using the Rising STEM Scholars funding. It is intended for students and professionals at all levels, and assumes little-to-no knowledge of Python or machine learning concepts. Enjoy!
 
-## Bootcamp plan
+# 📕 Bootcamp overview
 
-- Module 01: Introduction to Python [[doc](https://github.com/matthewcarbone/Bootcamp/issues/1)]
-- Module 02: Introduction to NumPy, tabular data, and visualization [[doc](https://github.com/matthewcarbone/Bootcamp/issues/2)]
-- Module 03: Introduction to machine learning (conceptual) & introduction to supervised machine learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/3)]
-- Module 04: Intermediate supervised machine learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/4)]
-- Module 05: Introduction to unsupervised learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/5)]
-- Module 06: Neural networks from scratch
-- Module 07: Introduction to PyTorch and deep learning libraries
-- Module 08: Convolutional neural networks and practical GPU training
-- Module 09: The cutting edge and an introduction to transformers
+## Basic Python, data science, and machine learning
+
+If you are new to these concepts, start here!
+
+1. [Introduction to Python](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/01_Introduction_to_Python) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/1)]
+2. [Introduction to NumPy, tabular data, and visualization](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/02_Tabular_Data) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/2)]
+3. [Introduction to machine learning (conceptual) & introduction to supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/03_Introduction_to_Machine_Learning) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/3)]
+4. [Intermediate supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/04_Intermediate_Machine_Learning) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/4)]
+5. Introduction to unsupervised learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/5)]
+
+## Machine learning today
+🚀 Coming soon!
+
+6. Neural networks from scratch [[doc](https://github.com/matthewcarbone/Bootcamp/issues/6)]
+7. Introduction to PyTorch and deep learning libraries
+8. Convolutional neural networks and practical GPU training
+9. The cutting edge and an introduction to transformers
 
 
-## Funding Acknowledgement
+
+# 💲 Funding Acknowledgement
 
 The development of this content is partly supported by the Brookhaven National Laboratory Center for Computing Sciences Education and Support (CCSES), and by Brookhaven National Laboratory under Contract No. DE-SC0012704.
 
