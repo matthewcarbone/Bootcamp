@@ -3,8 +3,6 @@ This module provides an admittedly sparse overview of tabular data in Python, sp
 
 ## Modules
 
-🚨 Note that until this repository is made public, these Colab links will not work
-
 1. [Introduction to NumPy](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/02_Tabular_Data/01_NumPy.ipynb)
 1. [Introduction to Pandas](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/02_Tabular_Data/02_Pandas.ipynb)
 
