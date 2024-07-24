@@ -8,6 +8,9 @@ This is a 2-week AI/ML bootcamp originally created using the Rising STEM Scholar
 
 # 📕 Bootcamp overview
 
+> [!important]
+> All of our tutorials are presented using [Google Colaboratory](https://colab.research.google.com/). It's a simple way to run [Jupyter](https://jupyter.org/) Notebooks in the cloud, and requires zero local installations! Each module has links in the the respective `README.md` files which open the notebook in Google "Colab". From there, you can save the notebook to your own Google Drive. To do this from an open Google Colab instance, first ensure you're signed in (profile in the top right), then simply click "File" at the top left, then click "Save a copy in Drive", which will automatically open a new copy of the notebook, one which was saved to your personal Drive! That way you don't lose any progress.
+
 ## Basic Python, data science, and machine learning
 
 If you are new to these concepts, start here!
