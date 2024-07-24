@@ -9,7 +9,7 @@
 This is the start of the Bootcamp proper. The point of this module is to give you an introduction to the basics of the Python programming language. It assumes you know nothing, but it also assumes that you will "immerse" yourself to some degree. I.e., you need to "google around", use Stack Overflow and just generally have the attitude that you're going to "debug anything and everything" in order to get the most out of this.
 
 # Content
-1. Introduction to Python
+1. [Introduction to Python "guided tour"](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/01_Introduction_to_Python/01_Introduction_to_Python.ipynb)
 2. **Capstone:** Create your own "game" in Python. The game can be about anything, but it should utilize a minimum of two of the concepts outlined here. The "main character" in the game can either choose their actions based on user input, or can follow some "strategy" (for instance, the character might be a gambler, and chooses random actions, or they might be more conservative, and choose safe actions 90% of the time). For example, your game might include many if/else statements, and also write a log of the "character's" actions to disk in a log.txt file or something along those lines.
 
 # Extra materials
