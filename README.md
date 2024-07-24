@@ -16,7 +16,7 @@ If you are new to these concepts, start here!
 2. [Introduction to NumPy, tabular data, and visualization](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/02_Tabular_Data) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/2)]
 3. [Introduction to machine learning (conceptual) & introduction to supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/03_Introduction_to_Machine_Learning) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/3)]
 4. [Intermediate supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/04_Intermediate_Machine_Learning) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/4)]
-5. Introduction to unsupervised learning [[doc](https://github.com/matthewcarbone/Bootcamp/issues/5)]
+5. [Introduction to unsupervised learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/05_Introduction_to_Unsupervised_Learning) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/5)]
 
 ## Machine learning today
 🚀 Coming soon!
@@ -24,7 +24,7 @@ If you are new to these concepts, start here!
 6. Neural networks from scratch [[doc](https://github.com/matthewcarbone/Bootcamp/issues/6)]
 7. Introduction to PyTorch and deep learning libraries
 8. Convolutional neural networks and practical GPU training
-9. The cutting edge and an introduction to transformers
+9. [Introduction to transformer-based architectures](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/09_Transformer-based_Architectures)
 
 
 
