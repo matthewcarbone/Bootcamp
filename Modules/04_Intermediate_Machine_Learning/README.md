@@ -9,3 +9,8 @@ Despite the ubiquitousness of modern-day large language models and other neural 
 1. [K-nearest neighbor regression](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/04_Intermediate_machine_learning/01_KNN.ipynb)
 2. [Support vector machines](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/04_Intermediate_machine_learning/02_SVM.ipynb)
 3. [Random forests](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/04_Intermediate_machine_learning/03_RF.ipynb)
+
+
+# 🙏 Acknowledgements
+
+A huge amount of the material here was written by [Jackson Lee](https://github.com/JackieLee23/), who at the time of this commit is an up-and-coming graduate student at Columbia University.
