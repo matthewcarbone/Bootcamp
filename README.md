@@ -15,11 +15,11 @@ This is a 2-week AI/ML bootcamp originally created using the Rising STEM Scholar
 
 If you are new to these concepts, start here!
 
-1. [Python crash course](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/01_Introduction_to_Python) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/1)]
-2. [Introduction to NumPy, tabular data, and visualization](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/02_Tabular_Data) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/2)]
-3. [Introduction to machine learning (conceptual) & introduction to supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/03_Introduction_to_Machine_Learning) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/3)]
-4. [Intermediate supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/04_Intermediate_Machine_Learning) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/4)]
-5. [Introduction to unsupervised learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/05_Introduction_to_Unsupervised_Learning) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/5)]
+1. [Python crash course](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/01_Introduction_to_Python/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/1)]
+2. [Introduction to NumPy, tabular data, and visualization](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/02_Tabular_Data/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/2)]
+3. [Introduction to machine learning (conceptual) & introduction to supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/03_Introduction_to_Machine_Learning/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/3)]
+4. [Intermediate supervised machine learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/04_Intermediate_Machine_Learning/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/4)]
+5. [Introduction to unsupervised learning](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/05_Introduction_to_Unsupervised_Learning/README.md) [[doc](https://github.com/matthewcarbone/Bootcamp/issues/5)]
 
 ## Machine learning today
 🚀 Coming soon!
