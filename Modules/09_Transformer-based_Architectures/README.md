@@ -30,12 +30,13 @@
 Clone the repository locally:
 
 ```
-git clone https://github.com/CASIA-IVA-Lab/AnomalyGPT.git 
+git clone https://github.com/matthewcarbone/Bootcamp.git
 ```
 
 Install the required packages:
 
 ```
+cd Modules/09_Transformer-based_Architecture
 pip install -r requirements.txt
 ```
 
