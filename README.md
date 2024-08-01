@@ -4,9 +4,16 @@
 
 </div>
 
-This is a 2-week AI/ML bootcamp originally created using the Rising STEM Scholars funding. It is intended for students and professionals at all levels, and assumes little-to-no knowledge of Python or machine learning concepts. Enjoy!
+Our objective is to help prepare the future United States Department of Energy computer and computational science workforce. This includes:
 
-# 📕 Bootcamp overview
+* Potential or incoming undergraduate interns, part of e.g. [SULI](https://science.osti.gov/wdts/suli) and [CCI](https://science.osti.gov/wdts/cci) programs;
+* High school students (possibly preparing for a Brookhaven National Laboratory [HSRP](https://www.bnl.gov/education/programs/program.php?q=219) program or related);
+* Interested staff, postdocs and graduate students;
+* The public in general!
+
+We will cover the basic numerical and machine learning skills needed to succeed on computing projects, as well as link to curated external resources. It is intended for students and professionals at all levels, and assumes little-to-no knowledge of Python or machine learning concepts. Enjoy!
+
+# 📕 Overview
 
 > [!important]
 > All of our tutorials are presented using [Google Colaboratory](https://colab.research.google.com/). It's a simple way to run [Jupyter](https://jupyter.org/) Notebooks in the cloud, and requires zero local installations! Each module has links in the the respective `README.md` files which open the notebook in Google "Colab". From there, you can save the notebook to your own Google Drive. To do this from an open Google Colab instance, first ensure you're signed in (profile in the top right), then simply click "File" at the top left, then click "Save a copy in Drive", which will automatically open a new copy of the notebook, one which was saved to your personal Drive! That way you don't lose any progress.
@@ -30,8 +37,10 @@ If you are new to these concepts, start here!
 9. [Introduction to transformer-based architectures](https://github.com/matthewcarbone/Bootcamp/tree/master/Modules/09_Transformer-based_Architectures)
 
 
-
 # 💲 Funding Acknowledgement
+
+> [!NOTE]
+> This was originally created as a 2-week AI/ML bootcamp for the Rising STEM Scholars program.
 
 The development of this content is partly supported by the Brookhaven National Laboratory Center for Computing Sciences Education and Support (CCSES), and by Brookhaven National Laboratory under Contract No. DE-SC0012704.
 
