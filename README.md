@@ -15,6 +15,9 @@ We will cover the basic numerical and machine learning skills needed to succeed 
 
 # 📕 Overview
 
+> [!tip]
+> Use the links in the various `README.md` files in this repository (including this one) to access the content easily!
+
 > [!important]
 > All of our tutorials are presented using [Google Colaboratory](https://colab.research.google.com/). It's a simple way to run [Jupyter](https://jupyter.org/) Notebooks in the cloud, and requires zero local installations! Each module has links in the the respective `README.md` files which open the notebook in Google "Colab". From there, you can save the notebook to your own Google Drive. To do this from an open Google Colab instance, first ensure you're signed in (profile in the top right), then simply click "File" at the top left, then click "Save a copy in Drive", which will automatically open a new copy of the notebook, one which was saved to your personal Drive! That way you don't lose any progress.
 
