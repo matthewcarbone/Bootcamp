@@ -14,7 +14,34 @@ This module will contain basic modules for introducing you to the most important
 
 During interactive sessions with instructors, we recommend the following two datasets for starting your machine learning journey. 
 
-* For **regression** problems, try the [California Housing Dataset](https://inria.github.io/scikit-learn-mooc/python_scripts/datasets_california_housing.html)
-* For **classification** problems, try the [Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
+## California Housing
 
-Each of the above links provides the required information to use the Sci-kit Learn API to fetch the data right while you're using Python. No need to download anything separately!
+This is nice dataset for **regression** problems. There are a few ways to download this, but do note that the source of the dataset will have an impact on what the data looks like, whether or not outliers are dropped, what columns are called, etc. 
+
+From Sci-kit learn: [California Housing Dataset](https://inria.github.io/scikit-learn-mooc/python_scripts/datasets_california_housing.html)
+```python
+import pandas as pd
+from sklearn.datasets import fetch_california_housing
+california_housing = fetch_california_housing(as_frame=True)
+data = pd.concat([california_housing["data"], california_housing["target"]], axis=1)
+```
+
+From Huggingface Hub (this is what we'll use in the notebook!):
+```python
+import pandas as pd
+df = pd.read_csv("hf://datasets/leostelon/california-housing/housing.csv")
+```
+
+> [!NOTE]
+> Don't forget to `pip install scikit-learn` or `pip install huggingface_hub` (respectively), as well as `pip install pandas` (in either case), before trying the above code snippets!
+
+## Iris
+
+This is a nice dataset for classification problems: [Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html).
+```python
+import pandas as pd
+from sklearn.datasets import load_iris
+iris = load_iris(as_frame=True)
+data = pd.concat([iris["data"], iris["target"]], axis=1)
+```
+
