@@ -9,7 +9,7 @@ Despite the ubiquitousness of modern-day large language models and other neural 
 1. [K-nearest neighbor regression](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/04_Intermediate_Machine_Learning/01_KNN.ipynb) - An introduction to K-nearest neighbor regression. This notebook also covers a few key concepts in machine learning, such as hyperparameter tuning and the train/test/validation split.
 2. [Support vector machines](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/04_Intermediate_Machine_Learning/02_SVM.ipynb) - An extremely detailed and comprehensive overview of support vector machines, including much of the mathematics behind the practice. Also discusses the kernel trick.
 3. [Support vector machines, simple example on Iris Classification](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/04_Intermediate_Machine_Learning/03_SVM_Iris_Classification_Example.ipynb) - A simplified version of the above SVM notebook, focusing on the Iris dataset.
-4. [Random forests](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/04_Intermediate_Machine_Learning/03_RF.ipynb) - An introduction to random forests, including a discussion of entropy and a real-world scientific use case.
+4. [Random forests](https://colab.research.google.com/github/matthewcarbone/Bootcamp/blob/master/Modules/04_Intermediate_Machine_Learning/04_RF.ipynb) - An introduction to random forests, including a discussion of entropy and a real-world scientific use case.
 
 
 # 🙏 Acknowledgements
