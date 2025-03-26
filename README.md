@@ -4,12 +4,10 @@
 
 </div>
 
---- 
 
 > [!warning]
 > This is an inactive archive. Please see the new repository at: [github.com/WDSEatBNL/Bootcamp](https://github.com/WDSEatBNL/Bootcamp).
 
---- 
 
 Our objective is to help prepare the future United States Department of Energy computer and computational science workforce. This includes:
 
